@@ -1,9 +1,7 @@
 # Hi there! I'm Colton Karaffa
 
 ## About Me
-I'm a passionate Computer Science student at the University of Georgia, driven by a deep fascination with technology and its potential to create positive change. 
-My mission is to develop innovative software solutions that can make a meaningful impact, particularly by improving technology accessibility for everyone.
-
+I'm a Computer Science student at the University of Georgia, driven by a deep fascination with technology and its potential to create positive change.
 Realistically, I am still a student, and my coding methods are imperfect. Lots of my code will have issues, however, I am learning each day how to be a better developer.
 
 ## Let's Connect!
