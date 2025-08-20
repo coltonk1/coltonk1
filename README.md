@@ -12,7 +12,7 @@ Currently:
 ## Skills
 - **Primary Languages**: Java, Go, Python, TypeScript, JavaScript
 - **Frameworks**: React, Next.js, Node.js, Flask, Spring  
-- **Tools**: Docker, Firebase, Supabase, Git, Linux  
+- **Tools**: AWS, Docker, Firebase, Supabase, Git, Linux
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-coltonkaraffa%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:coltonkaraffa@gmail.com)
