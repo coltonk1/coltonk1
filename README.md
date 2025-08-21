@@ -7,7 +7,7 @@ Focused on full-stack development, backend systems, and applied AI.
 Currently:
 - **Co-Director, Project Track @ CodeHub (UGA)** – Leading teams in building real-world projects.  
 - **Web Development Officer @ Society for Cybersecurity (UGA)** – Managing and improving the organization’s web presence.  
-- **SolveUGA** – Hosting in-person sessions focused on solving LeetCode-style problems and technical interview preparation.  
+<!-- - **SolveUGA** – Hosting in-person sessions focused on solving LeetCode-style problems and technical interview preparation. -->  
 
 ## Skills
 - **Primary Languages**: Java, Go, Python, TypeScript, JavaScript
